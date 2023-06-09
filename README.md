@@ -2,8 +2,6 @@
 
 ![inbox_221701_c1e7f0c6c305bffe3d62bd37d8783ed8_prob](https://user-images.githubusercontent.com/99672298/190671924-4c9b0dd4-243b-4828-9ade-f91a0555bb16.png)
 
-### `Read and catch up on content:`
-- [Gradient Descent article](https://github.com/MoinDalvs/Gradient_Descent_For_beginners/blob/main/README.md) :books:
 
 ## Don't get lost in the Statistics. Below is the path Follow! and Conquer it!
 
