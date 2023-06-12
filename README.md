@@ -77,6 +77,9 @@
 
 ____
 ## 1.) Statistics and its types<a class="anchor" id="1"></a>
+what is the statistics 
+-it is the science of the data .
+-collecting ,classifiyning,summeraizing,analyzing,interpreting numerical innformationn summary of the data is called statistics.
 
 Statistics is broadly categorized into two types:
 
@@ -108,11 +111,18 @@ From the survey conducted, it is found that 800 people out of 1000 (800 out of 1
 ___
 ## 2.) Data Types and Level of Measurement<a class="anchor" id="2"></a>
 
-There is structured and unstructured data. Then you have qualitative and quantitative data. Now let's explore two more data types (discrete and continuous) and help you understand the difference. 
+There is structured ,unstructured ,semistructred data. Then you have qualitative(categorical) and quantitative(numerical) data. Now let's explore two more data types (discrete and continuous) and help you understand the difference. 
+
+
 
 ![image](https://user-images.githubusercontent.com/99672298/190947841-6179d7b7-2799-4856-b4be-d5987abfbde0.png)
 
-At a higher level, data is categorized into two types: Qualitative and Quantitative.
+divisionn of the data type:-
+
+At a higher level, data is categorized into two types: Qualitative and Quantitative and further divideed aas follows:
+
+1) Qualitative:- 1) Ordinal data 2) Non-ordinal data 
+2) Quantitative:- 2) Continuos data 2) discrete data
 
 ![25 02 2022_15 16 47_REC](https://user-images.githubusercontent.com/99672298/190960830-5d75e078-ee70-49ee-98f1-20a6ce630ffc.png)
 
@@ -134,7 +144,8 @@ For instance, consider the grading system of a test. The respective grades can b
 
 You can also apply the same technique to a survey form where user experience is recorded on a scale of very poor to very good. The differences between various classes are not clear therefore can’t be quantified directly. 
 
-**Continuous data:** It can be represented in decimal format. Examples are height, weight, time, distance, etc.
+**Continuous data:** It can be represented in decimal form
+at. Examples are height, weight, time, distance, etc.
 
 ![image](https://user-images.githubusercontent.com/99672298/190947983-633b685c-8c2b-4d2d-9e19-59ae88813b17.png)
 
