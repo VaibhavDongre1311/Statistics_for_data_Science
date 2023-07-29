@@ -79,7 +79,7 @@ ____
 ## 1.) Statistics and its types<a class="anchor" id="1"></a>
 what is the statistics
 + it is the science of the data .
-+ collecting ,classifiyning,summeraizing,analyzing,interpreting numerical innformationn summary of the data is called statistics.
++ collecting ,classifiyning,summeraizing,analyzing,interpreting numerical information summary of the data is called statistics.
 
 Statistics is broadly categorized into two types:
 
